@@ -1,0 +1,100 @@
+{
+    "pt": {
+        "subtitle_home": "Bem-vindo ao meu portifolio, em que posso ajudar?",
+        "buttos_home": [
+            {"title": "Contatar como freelancer", "href": "mailto:miqueiasbelfort8323@gmail.com?&subject=Assunto do email&body=Olá,%0D%0A%0D%0A[corpo do email]%0D%0A%0D%0AAtenciosamente,%0D%0A[nome do usuário]"},
+            {"title": "Contatar como amigo", "href": "https://wa.me/5561992254791?text=Oi+tudo+bem%3F+meu+nome+%C3%A9+%2A%2A%2A%2A%2A%2C+estou+fazendo+contato+como+amigo"}
+        ],
+        "about_texts": {
+            "text01": "Olá! Sou um entusiasta da tecnologia com uma jornada de 3 anos explorando os intricados caminhos do desenvolvimento, principalmente nas esferas web e mobile. Com sede de conhecimento, mergulhei nos mundos da programação, abraçando desafios e ampliando meu repertório em diversas áreas, inclusive no universo dos games.",
+            "text02": "Atualmente, estou imerso nas linguagens de programação Javascript, Typescript e C#. Minha caixa de ferramentas inclui frameworks poderosos como .NET, React, React Native, Next e Node, proporcionando-me a flexibilidade necessária para criar soluções inovadoras e eficientes.",
+            "text03": "O constante desejo de superação me motiva a abraçar novos desafios, e estou sempre em busca de aprimoramento, mantendo-me atualizado com as últimas tecnologias e métodos de desenvolvimento.",
+            "text04": "Se você procura um desenvolvedor dedicado, apaixonado e pronto para inovar, estou aqui para contribuir com minha expertise e entusiasmo. Como dizia meu amigo Roberto Carlos: “Esse cara sou eu”."
+        },
+        "projects": {
+            "pro01": {
+                "title": "Netflix Clone",
+                "text": "Um clone da página principal da Netflix, usando api do TMBD"
+            },
+            "pro02": {
+                "title": "SuperChat",
+                "text": "Superchat e um chat em tempo real usando Socket.io e Node para messagens em tempo real"
+            },
+            "pro03": {
+                "title": "SpaceWorks",
+                "text": "É um projeto usando .NET e React para criar uma plataforma de chamados para TI"
+            },
+            "pro04": {
+                "title": "Flashcard IA",
+                "text": "Uma plataforma para poder criar flashcards interativos com inteligência artificial"
+            }
+        },
+        "skills": {
+            "html": "Proficiente no uso do HTML5.",
+            "css": "Proficiente no uso do CSS3 e no pré-processador CSS Tailwind.",
+            "js": "Proficiente no uso ES6, JavaScript.",
+            "ts": "Proficiente no uso do TypeScript.",
+            "csharp": "Proficiente no uso do C# e .NET.",
+            "react": "Proficiente no desenvolvimento de SPAs usando React, Context API, etc...",
+            "react_native": "Proficiente no desenvolvimento de aplicações móveis usando React Native.",
+            "next": "Proficiente no framework Next.js para renderização no lado do servidor.",
+            "blazor": "Familiarizado com o Blazor do .NET para Frontend .NET.",
+            "angular": "Familiarizado com o framework Angular para frontend com JavaScript.",
+            "node": "Proficiente no desenvolvimento de APIs usando node.js e express.js.",
+            "firebase": "Proficiente no uso das funcionalidades Firestore e Cloud Messaging do Firebase.",
+            "mysql": "Proficiente e conhecedor da sintaxe SQL e bancos de dados relacionais.",
+            "net": "Proficiente no desenvolvimento de APIs usando .NET 7^.",
+            "git": "Proficiente no uso de ferramentas de controle de versão como Git e GitHub.",
+            "docker": "Familiarizado no uso de containers e imagens Docker."
+        }
+    },
+    "en": {
+        "subtitle_home": "Welcome to my portfolio, how can I help you today?",
+        "buttos_home": [
+            {"title": "Contact me as a freelancer", "href": "mailto:miqueiasbelfort8323@gmail.com?&subject=Email subject&body=Hi,%0D%0A%0D%0A[email content]%0D%0A%0D% Yours sincerely,%0D%0A[your name]"},
+            {"title": "Contact me as a friend", "href": "https://wa.me/5561992254791?text=Hi%2C+how+are+you%3F+I%27m+%2A%2A%2A%2A%2A%2C+I+am+contact+you+as+a+friend"}
+        ],
+        "about_texts": {
+            "text01": "Hello! I am a technology enthusiast with a 3-year journey exploring the intricate paths of development, primarily in the realms of web and mobile. With a thirst for knowledge, I have delved into the worlds of programming, embracing challenges and expanding my repertoire in various areas, including the gaming universe.",
+            "text02": "Currently, I am immersed in programming languages such as Javascript, Typescript, and C#. My toolkit includes powerful frameworks like .NET, React, React Native, Next, and Node, providing me with the flexibility needed to create innovative and efficient solutions.",
+            "text03": "The constant desire for self-improvement motivates me to embrace new challenges, and I am always seeking to upgrade my skills, staying updated with the latest technologies and development methods.",
+            "text04": "If you are looking for a dedicated, passionate developer ready to innovate, I am here to contribute my expertise and enthusiasm."
+        },
+        "projects": {
+            "pro01": {
+                "title": "Netflix Clone",
+                "text": "A simple Netflix clone using React and the API of TMDB."
+            },
+            "pro02": {
+                "title": "SuperChat",
+                "text": "Superchat is a web-chat in real time with Node and Socket.io to send messagens"
+            },
+            "pro03": {
+                "title": "SpaceWorks",
+                "text": "It’s a project build with .NET 7 and React TS to suport IT."
+            },
+            "pro04": {
+                "title": "Flashcard IA",
+                "text": "It’s a project build with Next 13 and ChatGPT Api to create IA flashcards."
+            }
+        },
+        "skills": {
+            "html": "Proficient in the features of HTML5.",
+            "css": "Proficient in the features of CSS3 and CSS preprocessor Tailwind.",
+            "js": "Proficient in ES6 features of Javascript.",
+            "ts": "Proficient in features of Typescript.",
+            "csharp": "Proficient in features of C# and .NET.",
+            "react": "Proficient in developing SPAs using React, Context API etc...",
+            "react_native": "Proficient in developing mobile applications using React Native",
+            "next": "Proficient in Next.js framework for server-side rendering",
+            "blazor": "Familiar with the .NET Blazor for Frontend .NET",
+            "angular": "Familiar with the Angular framework for frontend with javascript.",
+            "node": "Proficient in developing APIs using node.js and express.js",
+            "firebase": "Proficient in using Firebase's Firestore and Cloud Messaging functionalities.",
+            "mysql": "Proficient and knowledgeable about SQL syntax and relational databases.",
+            "net": "Proficient in developing APIs using .NET 7^",
+            "git": "Proficient in using version control tools like Git and GitHub.",
+            "docker": "Familiar in using Docker containers and images"
+        }
+    }
+}
